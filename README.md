@@ -20,29 +20,27 @@ To get started with this project, follow these steps:
 
 1. Clone the repository:
 
-\`\`\`bash
-git clone https://github.com/username/repository.git
-\`\`\`
+
+git clone https://github.com/nodulebonduc/express-prism
+
 
 2. Install the dependencies:
 
-\`\`\`bash
+
 npm install
-\`\`\`
 
 3. Set up your database and fill in your database credentials in the `.env` file.
 
 4. Generate Prisma client:
 
-\`\`\`bash
+
 npx prisma generate
-\`\`\`
+
 
 5. Run the application:
 
-\`\`\`bash
+
 npm start
-\`\`\`
 
 ## Contributing
 
