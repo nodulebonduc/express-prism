@@ -1,10 +1,14 @@
 {
   "name": "express-prism",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": false,
   "description": "Express-Prisma Boilerplate is a robust and efficient starter project for building web applications. It combines the simplicity and performance of Express.js, a minimal and flexible Node.js web application framework, with the power of Prisma, an open-source database toolkit. Express.js provides a thin layer of fundamental web application features, while Prisma simplifies database access, migration, and management. This boilerplate includes a pre-configured setup with sensible defaults and best practices, perfect for building scalable, reliable, and maintainable production-ready server-side applications.",
   "license": "ISC",
   "git repository": "https://github.com/nodulebonduc/express-prism",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodulebonduc/express-prism.git"
+  },
   "author": {
     "name": "nodulebonduc",
     "email": "nodulebonduc89@gmail.com"
